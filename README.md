@@ -6,8 +6,8 @@
 
 另外也有個人在kaggle上比賽的操作紀錄
 
-Github上常常有無法開啟Jupyter的問題
-若有無法正常開啟的狀況可以利用以下連結
+Github上常常有無法開啟Jupyter的問題  
+若有無法正常開啟的狀況可以利用以下連結  
 https://nbviewer.jupyter.org/
 
 
@@ -27,3 +27,8 @@ https://nbviewer.jupyter.org/
 * [6. 基於VGG16的CNN可視化輸出](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/6.%20Visulize_CNN_what_to_see.ipynb)
 * [7. 自動編碼器-DNN資料降維](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/7.%20Auto-encoder.ipynb)
 * [8. 風格轉變-基於VGG19模型](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/8.%20CNN_Style_Transfer.ipynb)
+
+## Kaggle
+Kaggle是目前全世界公認的最大的資料科學社群，在上面隨時都會有資料分析的比賽進行  
+對於資料科學的學習者來說，在上面比賽、討論、學習是讓自己成長的一個好地方
+* [0. 鐵達尼號生存分析](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/Titanic_Keras.ipynb)
