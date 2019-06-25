@@ -10,6 +10,13 @@ Github上常常有無法開啟Jupyter的問題
 若有無法正常開啟的狀況可以利用以下連結  
 https://nbviewer.jupyter.org/
 
+## Requirement
+* Anaconda3(numpy/pandas/matplotlib)
+* tensorflow-gpu  1.13.1
+* keras 2.2.4
+* nvidia CUDA 10.0
+* cudnn v7.5.0
+
 
 ## Python資料處理
 這裡紀錄了常用的函式庫資料處理應用
