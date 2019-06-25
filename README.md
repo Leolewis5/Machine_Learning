@@ -10,6 +10,13 @@ Github上常常有無法開啟Jupyter的問題
 若有無法正常開啟的狀況可以利用以下連結  
 https://nbviewer.jupyter.org/
 
+## Requirements
+* Anaconda3(numpy/pandas/matplotlib)
+* tensorflow-gpu  1.13.1
+* keras 2.2.4
+* nvidia CUDA 10.0
+* cudnn v7.5.0
+
 
 ## Python資料處理
 這裡紀錄了常用的函式庫資料處理應用
@@ -31,4 +38,4 @@ https://nbviewer.jupyter.org/
 ## Kaggle
 Kaggle是目前全世界公認的最大的資料科學社群，在上面隨時都會有資料分析的比賽進行  
 對於資料科學的學習者來說，在上面比賽、討論、學習是讓自己成長的一個好地方
-* [0. 鐵達尼號生存分析](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/Titanic_Keras.ipynb)
+* [1. 鐵達尼號生存分析](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/Titanic_Keras.ipynb)
