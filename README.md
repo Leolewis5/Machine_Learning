@@ -35,7 +35,7 @@ https://nbviewer.jupyter.org/
 * [7. 自動編碼器-DNN資料降維](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/7.%20Auto-encoder.ipynb)
 * [8. 風格轉變-基於VGG19模型](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/8.%20CNN_Style_Transfer.ipynb)
 * [9. Batch Normalization](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/9.%20Batch_Normalization.ipynb)
-* [10. 生成對抗網路-以MNIST為樣本](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/10.%20GAN_MNIST.ipynb)
+* [10. GAN 生成對抗網路-以MNIST為樣本](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/10.%20GAN_MNIST.ipynb)
 
 ## Kaggle
 Kaggle是目前全世界公認的最大的資料科學社群，在上面隨時都會有資料分析的比賽進行  
