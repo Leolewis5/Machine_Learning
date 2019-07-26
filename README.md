@@ -43,3 +43,4 @@ https://nbviewer.jupyter.org/
 Kaggle是目前全世界公認的最大的資料科學社群，在上面隨時都會有資料分析的比賽進行  
 對於資料科學的學習者來說，在上面比賽、討論、學習是讓自己成長的一個好地方
 * [1. 鐵達尼號生存分析](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/Titanic_Keras.ipynb)
+* [2. 狗狗圖像生成](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/Dog_generator.ipynb)
