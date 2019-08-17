@@ -16,6 +16,7 @@ https://nbviewer.jupyter.org/
 * keras 2.2.4
 * nvidia CUDA 10.0
 * cudnn v7.5.0
+* pyroch 1.2.0
 
 
 ## Python資料處理
@@ -38,6 +39,9 @@ https://nbviewer.jupyter.org/
 * [10. GAN 生成對抗網路-以MNIST為樣本](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/10.%20GAN_MNIST.ipynb)
 * [11. DCGAN-動漫頭像生成](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/11.%20DCGAN_AnimeFace.ipynb)
 * [12. cDCGAN-MNIST](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/12.%20cDCGAN_MNIST.ipynb)
+
+## Deep Learning with Pytorch
+* [1. CNN_MNIST](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Pytorch/1.%20CNN_MNIST.ipynb)
 
 ## Kaggle
 Kaggle是目前全世界公認的最大的資料科學社群，在上面隨時都會有資料分析的比賽進行  
