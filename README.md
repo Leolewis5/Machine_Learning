@@ -43,6 +43,7 @@ https://nbviewer.jupyter.org/
 ## Deep Learning with Pytorch
 * [1. CNN_MNIST](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Pytorch/1.%20CNN_MNIST.ipynb)
 * [2. AnimiFace_RALSAGIN](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Pytorch/2.%20AnimiFace_RALSGAN.ipynb)
+* [3. BIG_GAN_deep_128_pretrain](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Pytorch/3.%20BIG_GAN_Deep_128.ipynb)
 
 ## Kaggle
 Kaggle是目前全世界公認的最大的資料科學社群，在上面隨時都會有資料分析的比賽進行  
