@@ -42,9 +42,11 @@ https://nbviewer.jupyter.org/
 
 ## Deep Learning with Pytorch
 * [1. CNN_MNIST](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Pytorch/1.%20CNN_MNIST.ipynb)
+* [2. AnimiFace_RALSAGIN](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Pytorch/2.%20AnimiFace_RALSGAN.ipynb)
 
 ## Kaggle
 Kaggle是目前全世界公認的最大的資料科學社群，在上面隨時都會有資料分析的比賽進行  
 對於資料科學的學習者來說，在上面比賽、討論、學習是讓自己成長的一個好地方
 * [1. 鐵達尼號生存分析](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/Titanic_Keras.ipynb)
-* [2. 狗狗圖像生成](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/Dog_generator.ipynb)
+* [2.1 DogGAN_simple DCGAN](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/dog_gen/Dog_generator.ipynb)
+* [2.2 DogGAN_RALSGAN](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/dog_gen/RALSGAN%20-%20DOG%20image%20generator.ipynb)
