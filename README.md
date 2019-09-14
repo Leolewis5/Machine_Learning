@@ -35,6 +35,7 @@ https://nbviewer.jupyter.org/
 * [10. GAN - MNIST](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/10.%20GAN_MNIST.ipynb)
 * [11. DCGAN - Animation Face](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/11.%20DCGAN_AnimeFace.ipynb)
 * [12. cDCGAN-MNIST](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/12.%20cDCGAN_MNIST.ipynb)
+* [13. Stochastic Weight Averaging (SWA)](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/13.%20Stochastic%20Weight%20Averaging%20(SWA).ipynb)
 
 ## Deep Learning with Pytorch
 * [1. CNN_MNIST](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Pytorch/1.%20CNN_MNIST.ipynb)
