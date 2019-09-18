@@ -36,7 +36,7 @@ https://nbviewer.jupyter.org/
 * [11. DCGAN - Animation Face](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/11.%20DCGAN_AnimeFace.ipynb)
 * [12. cDCGAN-MNIST](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/12.%20cDCGAN_MNIST.ipynb)
 * [13. Stochastic Weight Averaging (SWA)](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/13.%20Stochastic%20Weight%20Averaging%20(SWA).ipynb)
-* [14. Squeeze-and-Excitation Networks (SE-NET)](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/14.%20Squeeze-and-Excitation%20Networks%20(SENET.ipynb)
+* [14. Squeeze-and-Excitation Networks (SE-NET)](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Keras/14.%20Squeeze-and-Excitation%20Networks%20(SENET).ipynb)
 
 ## Deep Learning with Pytorch
 * [1. CNN_MNIST](https://github.com/Leolewis5/Machine_Learning/blob/master/Deep_Learning_with_Pytorch/1.%20CNN_MNIST.ipynb)
