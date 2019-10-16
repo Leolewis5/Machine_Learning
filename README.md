@@ -50,3 +50,4 @@ https://nbviewer.jupyter.org/
 * [2.1 DogGAN_simple DCGAN](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/dog_gen/Dog_generator.ipynb)
 * [2.2 DogGAN_RALSGAN](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/dog_gen/RALSGAN%20-%20DOG%20image%20generator.ipynb)
 * [3.1 Medical Image Segmentation - SIIM_ACR Pneumothorax Segmentation](https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/SIIM-ACR%20Pneumothorax%20Segmentation/SIIM_ACR%20Pneumothorax%20Segmentation.ipynb)
+* [4.1 Severstal_ Steel Defect Detection UEfficientnet] (https://github.com/Leolewis5/Machine_Learning/blob/master/Kaggle/Severstal_Steel%20Defect%20Detection/Severstal_%20Steel%20Defect%20Detection%20UEfficientnet.ipynb)
