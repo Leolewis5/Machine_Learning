@@ -5,7 +5,7 @@ This is my personal learning note, recorded of deep learning study.
 Also, record of kaggle compitition result and code.
 
 Github sometimes has issue for opening jupyter,
-therefore, items will be opened through: https://nbviewer.jupyter.org/
+therefore, items would be opened through: https://nbviewer.jupyter.org/
 
 ## Requirements
 * Anaconda3(numpy/pandas/matplotlib)
