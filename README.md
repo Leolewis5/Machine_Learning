@@ -45,7 +45,7 @@ therefore, items would be opened through: https://nbviewer.jupyter.org/
 
 ## Kaggle
 * [1. Titanic: Machine Learning from Disaster-DNN/ tabular data analysis](https://nbviewer.jupyter.org/github/Leolewis5/Machine_Learning/blob/master/Kaggle/Titanic/Titanic_Keras.ipynb)
-* [2. Generative Dog Images-RALSGAN](https://nbviewer.jupyter.org/github/Leolewis5/Machine_Learning/blob/master/Kaggle/dog_gen/Generative%20Dog%20Images.ipynb)
+* [2. Generative Dog Images-RALSGAN](https://nbviewer.jupyter.org/github/Leolewis5/Machine_Learning/blob/master/Kaggle/Generative%20Dog%20Images/Generative%20Dog%20Images.ipynb)
 * [3. SIIM_ACR Pneumothorax Segmentation-Medical image segmentation](https://nbviewer.jupyter.org/github/Leolewis5/Machine_Learning/blob/master/Kaggle/SIIM-ACR%20Pneumothorax%20Segmentation/SIIM_ACR%20Pneumothorax%20Segmentation.ipynb)
 * [4. Severstal Steel Defect Detection-Degect image segmentation and classification](https://nbviewer.jupyter.org/github/Leolewis5/Machine_Learning/blob/master/Kaggle/Severstal_Steel%20Defect%20Detection/Severstal%20Steel%20Defect%20Detection.ipynb)
 * [5. RSNA Intracranial Hemorrhage Detection](https://nbviewer.jupyter.org/github/Leolewis5/Machine_Learning/blob/master/Kaggle/RSNA%20Intracranial%20Hemorrhage%20Detection/RSNA%20Intracranial%20Hemorrhage%20Detection.ipynb)
